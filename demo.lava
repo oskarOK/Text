@@ -1,5 +1,6 @@
 public class{
   public void demo1(){
+  String name="wenbo";
     System.out.println("Hello GitHub");
   }
 }
